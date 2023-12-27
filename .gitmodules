@@ -1,0 +1,9 @@
+[submodule "2021"]
+	path = 2021
+	url = https://github.com/smuuule/aoc2021-smule
+[submodule "2022"]
+	path = 2022
+	url = https://github.com/smuuule/aoc2022-smule
+[submodule "2023"]
+	path = 2023
+	url = https://github.com/smuuule/aoc2023-smule
